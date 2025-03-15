@@ -29,9 +29,9 @@
 
 
 ## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/rahulab14)  
-[Portfolio Website](https://your-portfolio-link.com)  
-[Email Me](rahulab1402@gmail.com)
+### [LinkedIn](https://linkedin.com/in/rahulab14)  
+### [Portfolio Website](https://your-portfolio-link.com)  
+### [Email Me](rahulab1402@gmail.com)
 
 ---
-**Let's build something amazing together! 🚀**
+### **Let's build something amazing together! 🚀**
