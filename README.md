@@ -17,7 +17,7 @@
 
 
 ## 🏆 Project
-### - Hackathon : [StyLux AI](your-link-here)
+### - Hackathon : [StyLux AI](https://stylux-ai.vercel.app)
 
 
 ## 🌟 Projects
