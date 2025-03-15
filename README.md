@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack
 - HTML | CSS | Tailwind CSS
 - JavaScript | React.js | Node.js
-- MongoDB | Firebase
+- MongoDB | MySQL 
 - Postman | Bruno
 - Render
 
