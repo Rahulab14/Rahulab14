@@ -27,8 +27,6 @@
 | MKS Consultant | React, Node.js, MongoDB | [Live Demo](link-here) |
 | Anna Store | Next.js, Tailwind, MongoDB | [Live Demo](link-here) |
 
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/rahulab14)  
