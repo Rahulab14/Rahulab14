@@ -3,11 +3,11 @@
 ### I'm a **Full Stack Developer** passionate about building scalable web applications and designing creative user interfaces.
 
 ## 🛠️ Tech Stack
-#### - HTML | CSS | Tailwind CSS
-#### - JavaScript | React.js | Node.js
-#### - MongoDB | MySQL 
-#### - Postman | Bruno
-#### - Render
+### - HTML | CSS | Tailwind CSS
+### - JavaScript | React.js | Node.js
+### - MongoDB | MySQL 
+### - Postman | Bruno
+### - Render
 
 ## 🎯 Skills
 ### ✅ UI/UX Design
