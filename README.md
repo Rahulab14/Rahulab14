@@ -18,6 +18,7 @@
 
 ## 🏆 Project
 ### - Hackathon : [StyLux AI](https://stylux-ai.vercel.app)
+### - Clothing Brand - [TryFit](https://try-fit.netlify.app)
 
 
 ## 🌟 Projects
