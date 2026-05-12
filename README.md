@@ -187,8 +187,6 @@ Clean and elegant pet care landing page focused on modern UI, soft aesthetics, a
 <td width="50%" valign="top">
 
 
-
-
 <div align="center">
 
 
