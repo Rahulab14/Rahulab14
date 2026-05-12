@@ -36,7 +36,6 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -188,8 +187,6 @@ Clean and elegant pet care landing page focused on modern UI, soft aesthetics, a
 <td width="50%" valign="top">
 
 
-
-
 <div align="center">
 
 
@@ -224,6 +221,12 @@ Luxury-inspired jewelry eCommerce design showcasing premium visuals, elegant lay
 
 ---
 
+## 🚀 Entrepreneur Mindset
+
+> *" Launch fast. Learn faster. Improve constantly. Scale relentlessly. "*
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -246,11 +249,7 @@ Luxury-inspired jewelry eCommerce design showcasing premium visuals, elegant lay
 
 ---
 
-## 🚀 Developer Mindset
 
-> *"First make it work, then make it right, then make it fast."*
-
----
 
 <p align="center">
   <b>🚀 Let’s build something impactful together!</b>
