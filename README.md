@@ -36,24 +36,104 @@
 ---
 
 
-## 🏆 Highlight Projects
+## 🚀 Featured Projects
 
-### 🧠 Hackathon Project
-**StyLux AI** – AI-powered fashion assistant  
-🔗 https://stylux-ai.vercel.app  
+<div align="center">
 
-### 👗 Product Platform
-**TryFit** – Digital fashion & styling platform  
-🔗 https://try-fit.netlify.app  
+<table>
+<tr>
 
-### 🍇 Grocery Delivery Platform
-**TryFit** – Fast & Door step delivery platform  
-🔗 https://clickin.netlify.app
+<td width="50%" valign="top">
+
+<a href="https://stylux-ai.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:928DAB&height=180&section=header&text=🧠%20StyLux%20AI&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</a>
+
+### 🧠 StyLux AI  
+AI-powered fashion assistant focused on smart outfit recommendations and modern user experience.
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Fashion-Assistant-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Modern%20Design-FF4B91?style=flat-square" />
+</p>
+
+<a href="https://stylux-ai.vercel.app">
+  <img src="https://img.shields.io/badge/%20View%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://try-fit.netlify.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=👗%20TryFit&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</a>
+
+### 👗 TryFit  
+Digital fashion & styling platform delivering premium shopping and virtual styling experiences.
+
+<p>
+  <img src="https://img.shields.io/badge/Fashion-Tech-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/User%20Experience-Clean%20UI-00C7B7?style=flat-square" />
+</p>
+
+<a href="https://try-fit.netlify.app">
+  <img src="https://img.shields.io/badge/%20Explore%20Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://clickin.netlify.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=180&section=header&text=🍇%20ClickIn&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</a>
+
+### 🍇 ClickIn  
+Fast and seamless grocery delivery platform built for smooth ordering and doorstep convenience.
+
+<p>
+  <img src="https://img.shields.io/badge/Grocery-Delivery-38B000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Fast%20Checkout-4CAF50?style=flat-square" />
+</p>
+
+<a href="https://clickin.netlify.app">
+  <img src="https://img.shields.io/badge/🛒%20Visit%20Store-38B000?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=180&section=header&text=%20More%20Coming&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+### 🚀 Building More Experiences  
+Continuously crafting modern digital products with focus on UI/UX, scalability, and innovation.
+
+<p>
+  <img src="https://img.shields.io/badge/Design-Clean%20Interfaces-A259FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Development-Full%20Stack-61DAFB?style=flat-square" />
+</p>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
 
 ---
-## 🧩 LeetCode Analytics
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"/> LeetCode Analytics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rahulab14?theme=dark&font=Fira%20Code&ext=heatmap" />
@@ -61,23 +141,98 @@
 
 ---
 
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28"/> Figma Community Showcase
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://www.figma.com/community/file/1635958521535278706/pet-care?q_id=33f8ce16-4545-4a57-a66e-a47c04e2ec15">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8D7DA,100:F5F5F5&height=180&section=header&text=🐾%20Pet%20Care&fontSize=34&fontColor=2D2D2D&animation=fadeIn" />
+</a>
+
+<div align="center">
+
+### 🐾 Pet Care UI Design
+
+Clean and elegant pet care landing page focused on modern UI, soft aesthetics, and user-friendly interactions.
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%20Design-Minimal%20Interface-FFB6C1?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-Community%20File-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+<br><br>
+
+<a href="https://www.figma.com/community/file/1635958521535278706/pet-care?q_id=33f8ce16-4545-4a57-a66e-a47c04e2ec15">
+   <img src="https://img.shields.io/badge/%20View%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://www.figma.com/community/file/1612755418476693940/pandora-design?q_id=99edb1d2-88fd-4599-8827-9127b61f6b2e">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E2D6,100:F8F5F0&height=180&section=header&text=💎%20Pandora%20Design&fontSize=30&fontColor=2D2D2D&animation=fadeIn" />
+</a>
+
+<div align="center">
+
+### 💎 Pandora Jewelry UI
+
+Luxury-inspired jewelry eCommerce design showcasing premium visuals, elegant layouts, and refined shopping experience.
+
+<br>
+
+<img src="https://img.shields.io/badge/eCommerce-Luxury%20UI-D4AF37?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-Design%20System-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+<br><br>
+
+<a href="https://www.figma.com/community/file/1612755418476693940/pandora-design?q_id=99edb1d2-88fd-4599-8827-9127b61f6b2e">
+  <img src="https://img.shields.io/badge/%20View%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulab14">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20A%20B-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20A%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://figma.com/@rahulab14">
+    <img src="https://img.shields.io/badge/Figma-Rahul%20A%20B-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  
   <a href="https://leetcode.com/rahulab14">
-    <img src="https://img.shields.io/badge/LeetCode-230%2B-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-230%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  
   <a href="mailto:rahulab1402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Developer Mindset
+## 🚀 Developer Mindset
 
 > *"First make it work, then make it right, then make it fast."*
 
