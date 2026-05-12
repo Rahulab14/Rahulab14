@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 🚀 **Full Stack Developer** with hands-on experience building **scalable, production-ready web applications**  
@@ -142,7 +143,9 @@ Continuously crafting modern digital products with focus on UI/UX, scalability, 
 ---
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28"/> Figma Community Showcase
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/> Figma Community Showcase
+
 
 <div align="center">
 
@@ -151,11 +154,15 @@ Continuously crafting modern digital products with focus on UI/UX, scalability, 
 
 <td width="50%" valign="top">
 
-<a href="https://www.figma.com/community/file/1635958521535278706/pet-care?q_id=33f8ce16-4545-4a57-a66e-a47c04e2ec15">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8D7DA,100:F5F5F5&height=180&section=header&text=🐾%20Pet%20Care&fontSize=34&fontColor=2D2D2D&animation=fadeIn" />
-</a>
+
 
 <div align="center">
+
+
+<a href="https://www.figma.com/community/file/1635958521535278706/pet-care">
+  <img src="./assets/petcare.png" width="100%" />
+</a>
+
 
 ### 🐾 Pet Care UI Design
 
@@ -178,11 +185,16 @@ Clean and elegant pet care landing page focused on modern UI, soft aesthetics, a
 
 <td width="50%" valign="top">
 
-<a href="https://www.figma.com/community/file/1612755418476693940/pandora-design?q_id=99edb1d2-88fd-4599-8827-9127b61f6b2e">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E2D6,100:F8F5F0&height=180&section=header&text=💎%20Pandora%20Design&fontSize=30&fontColor=2D2D2D&animation=fadeIn" />
-</a>
+
+
 
 <div align="center">
+
+
+<a href="https://www.figma.com/community/file/1612755418476693940/pandora-design">
+  <img src="./assets/pandora.png" width="100%" />
+</a>
+
 
 ### 💎 Pandora Jewelry UI
 
@@ -240,4 +252,6 @@ Luxury-inspired jewelry eCommerce design showcasing premium visuals, elegant lay
 
 <p align="center">
   <b>🚀 Let’s build something impactful together!</b>
+
+
 </p>
