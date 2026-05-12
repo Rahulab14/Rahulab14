@@ -112,7 +112,9 @@ Fast and seamless grocery delivery platform built for smooth ordering and doorst
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=180&section=header&text=%20More%20Coming&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<a href="https://github.com/Rahulab14?tab=repositories">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=180&section=header&text=%20More%20Coming&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</a>
 
 ### 🚀 Building More Experiences  
 Continuously crafting modern digital products with focus on UI/UX, scalability, and innovation.
